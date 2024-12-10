@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 // AIML commit
 
 hello world
@@ -6,3 +7,9 @@ hello world
 //swetha
 hii how are yu
 >>>>>>> swe
+=======
+// SANTHOSHA commits
+
+
+welcome to GIT
+>>>>>>> san
